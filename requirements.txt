@@ -1,0 +1,15 @@
+tensorflow~=2.11.0
+keras~=2.11.0
+numpy==1.24.3
+flatbuffers==23.1.21
+protobuf==3.20.3
+tensorboard==2.13
+tensorflow-estimator==2.13.0
+
+opencv-python~=4.9.0.80
+matplotlib~=3.7.5
+detectron2~=0.6
+pandas~=2.0.3
+torch~=1.8.1+cpu
+torchvision~=0.9.1+cpu
+pillow~=10.3.0
